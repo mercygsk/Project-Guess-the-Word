@@ -1,17 +1,17 @@
-Project - Guess the Word!
+**Project - Guess the Word!**
 
-Project Flow Chart:
+**Project Flow Chart:**
 
 ![Alt Text](guess-the-word-flowchart.pdf)
 
-Project Specification:
+**Project Specification:**
 
 ![Alt Text](guessthewordSpecification.pdf)
 
-Wireframe:
+**Wireframe:**
 
 ![Alt Text](wire-frame-gues-the-word.jpg)
 
-Try here:
+**Try here:**
 
 https://mercygsk.github.io/Project-Guess-the-Word/
