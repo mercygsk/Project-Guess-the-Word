@@ -1,9 +1,5 @@
 **Project - Guess the Word!**
 
-**Project Flow Chart:**
-
-![Alt Text](guess-the-word-flowchart.png)
-
 **Project Specification:**
 
 **Word Guessing Game**
@@ -48,14 +44,16 @@ Actors are users input.
 Action - guess the word
 
 
+![Detailed Specifications](guessthewordSpecification.pdf)
 
+**Project Flow Chart:**
 
+![Flow Chart](guess-the-word-flowchart.pdf)
 
-![Alt Text](guessthewordSpecification.pdf)
 
 **Wireframe:**
 
-![Alt Text](wire-frame-gues-the-word.jpg)
+![Wireframe Page](wire-frame-gues-the-word.jpg)
 
 **Try here:**
 
