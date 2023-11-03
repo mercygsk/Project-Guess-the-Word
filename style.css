@@ -21,23 +21,38 @@ body{
   border-radius: 10px;
   align-items: center;
   justify-content: center;
-  h1 {
-      font-size: 2.5em;
+}
+   h1 {
+      font-size: 3.5em;
+      padding: 20px;
+      align-items: center;
     }
   
+  
+
+#hint{
+  font-size: 2.5em;
+}
+#maxtries{
+  font-size: 2.5em; 
+}
+#CorrectTries{
+  font-size: 2.5em;
+}
+#incorrectTries{
+  font-size: 2.5em;
 }
 #btn{
   background: green;
   align-items: center;
   justify-content: center;
-  padding: 0 30px;
+  padding:  30px;
+  font-size: 2.0em;
 
 }
-
-
 .inputs input{
-  height: 57px;
-  width: 56px;
+  height: 65px;
+  width: 70px;
   margin: 10px;
   font-size: 24px;
   font-weight: 500;
@@ -49,12 +64,18 @@ body{
   text-transform: uppercase;
   border: 1px solid #f50b0b;
 }
-/* .inputs input:first-child{
+.inputs input:first-child{
   margin-left: 0px;
-} */
+}
 .inputs input{
-  height: 51px;
-  width: 50px;
+  height: 80px;
+  width: 80px;
   margin: 3px;
   font-size: 22px;
 }
+/* .typing-input{
+  align-items: center;
+  justify-content: center;
+  padding:  0px;
+  font-size: 2.0em;
+} */

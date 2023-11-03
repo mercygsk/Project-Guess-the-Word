@@ -22,7 +22,28 @@ let wordList = [
     {
         word: "ebay",
         hint: "online shopping site"
+    },
+    {
+        word: "twitter",
+        hint: "a social media app"
+    },
+    {
+        word: "github",
+        hint: "code hosting platform"
+    },
+    {
+        word: "computer",
+        hint: "an electronic device"
+    },
+    {
+        word: "cpu",
+        hint: "computer component"
+    },
+    {
+        word: "java",
+        hint: "programming language"
     }
+    
 ]
 
 //let wordList = ['John', 'Mercy', 'Sathwik', 'Samuel', 'Mom', 'Dad'];
